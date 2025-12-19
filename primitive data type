@@ -1,0 +1,30 @@
+# Program to demonstrate all Primitive Data Types in Python
+
+# int
+age = 18
+
+# float
+height = 175.5
+
+# complex
+signal = 4 + 5j
+
+# bool
+is_student = True
+
+# string
+name = "Yeswanth"
+
+# Printing values
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Signal Value:", signal)
+print("Is Student:", is_student)
+
+print("\n--- Type Checking ---")
+print("Type of name:", type(name))
+print("Type of age:", type(age))
+print("Type of height:", type(height))
+print("Type of signal:", type(signal))
+print("Type of is_student:", type(is_student))
